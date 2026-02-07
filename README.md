@@ -9,6 +9,7 @@ These are my personal notes while learning AWS and cloud fundamentals.
 1. [Introduction](1.%20Introduction.md)
 2. [Asessment Notes](2.%20Assessment_test.md)
 3. [Chapter 1: The Cloud](3.%20Chapter_1_The_Cloud.md)
+4. [Chapter 2: The Understanding AWS Account](3.%20Chapter_2_understanding_aws_account.md)
 
 ## About This Repository
 
